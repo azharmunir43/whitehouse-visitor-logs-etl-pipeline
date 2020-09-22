@@ -1,0 +1,9 @@
+**.ipynb_checkpoints/*
+.idea/*
+**__pycache__**
+data_lake/clean/whitehouse_visitor_logs/*
+!data_lake/clean/whitehouse_visitor_logs/readme.txt
+
+data_lake/landing/whitehouse_visitor_logs/*
+!data_lake/landing/whitehouse_visitor_logs/readme.txt
+
